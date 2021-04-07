@@ -28,7 +28,7 @@ expected.
 
 Makefile:
 
-Present for easy user compilation of the aforementioned programs. Input is
+Initial code provided by Dr. Finkel, with minor modifications. Present for easy user compilation of the aforementioned programs. Input is
 optional, but can be invoked using "make run", with the same user input as cards.cpp following 'run'. Output is similar to cards.cpp. Running this file is
 necessary in order to correctly import randGen.pl, whose output is needed
 to run cards.
